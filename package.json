@@ -1,0 +1,23 @@
+{
+  "name": "mlab-website",
+  "version": "1.0.0",
+  "description": "Machine Learning At Berkeley",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-wangg/mlab-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-wangg/mlab-website/issues"
+  },
+  "homepage": "https://github.com/v-wangg/mlab-website#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
