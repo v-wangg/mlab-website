@@ -102,8 +102,6 @@
 	.card-body
 	{
 		width: 100%;
-		padding: 0px;
-		margin-top: 37px;
 	}
 }
 
@@ -245,11 +243,6 @@
 	.header
 	{
 		height: 68px;
-	}
-	.header.scrolled
-	{
-		height: 50px;
-		background: rgba(27, 11, 51, 0.92);
 	}
 	.logo a
 	{

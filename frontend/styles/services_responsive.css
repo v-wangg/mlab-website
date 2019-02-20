@@ -301,11 +301,7 @@
 	{
 		height: 68px;
 	}
-	.header.scrolled
-	{
-		height: 50px;
-		background: rgba(27, 11, 51, 0.92);
-	}
+
 	.logo a
 	{
 		font-size: 18px;

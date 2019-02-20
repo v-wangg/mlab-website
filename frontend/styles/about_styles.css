@@ -329,13 +329,13 @@ section
 	left: 0;
 	width: 100%;
 	height: 128px;
-	background: rgba(27, 11, 51, 0.52);
+	background: rgba(255, 255, 255, 0.52);
 	z-index: 10;
 }
 .header.scrolled
 {
 	height: 80px;
-	background: rgba(27, 11, 51, 0.92);
+	background: rgba(255, 255, 255, 0.92);
 }
 
 /*********************************
@@ -836,7 +836,7 @@ section
 }
 .team_container
 {
-	height: 513px;
+	height: 330px;
 	background: #f7f7f8;
 }
 .team_container:hover
