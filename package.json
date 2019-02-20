@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/v-wangg/mlab-website#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "particles.js": "^2.0.0"
   }
 }
